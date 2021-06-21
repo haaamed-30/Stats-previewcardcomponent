@@ -41,8 +41,8 @@ body {
 
 /* Start heading */
 .heading {
-    padding: 39.25px 39.25px 39.25px 40px;
-    margin: -80.21px 63px 44.21px 44.21px;
+    padding: 38.25px 39.25px 39.25px 40px;
+    margin: -81.21px 63px 44.21px 44.21px;
     position: relative;
 }
 .heading h1 {
@@ -74,17 +74,17 @@ body {
 }
 .one {
     position: absolute;
-    bottom: -90px;
+    bottom: -86px;
     left: 0px;
 }
 .two {
     position: absolute;
-    bottom: -90px;
+    bottom: -87px;
     left: 152px;
 }
 .three {
     position: absolute;
-    bottom: -90px;
+    bottom: -88px;
     left: 288px;
 }
 .one span,
