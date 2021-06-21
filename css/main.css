@@ -44,8 +44,9 @@ body {
     /* padding: 37.25px 39.25px 39.25px 40px;
     margin: -81.21px 63px 44.21px 44.21px; */
     position: relative;
-    top: 248px;
+    top: 249px;
     left: 65.625px;
+    padding-left: 5px;
 }
 .heading h1 {
     width: 403px;
@@ -73,20 +74,21 @@ body {
     font-size: 24px;
     font-family: 'Inter', sans-serif;
     font-weight: 700;
+    padding-left: 5px;
 }
 .one {
     position: absolute;
-    bottom: -85px;
+    bottom: -87px;
     left: 0px;
 }
 .two {
     position: absolute;
-    bottom: -85px;
+    bottom: -87px;
     left: 152px;
 }
 .three {
     position: absolute;
-    bottom: -85px;
+    bottom: -87px;
     left: 288px;
 }
 .one span,
