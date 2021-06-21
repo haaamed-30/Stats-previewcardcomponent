@@ -41,12 +41,9 @@ body {
 
 /* Start heading */
 .heading {
-    /* padding: 37.25px 39.25px 39.25px 40px;
-    margin: -81.21px 63px 44.21px 44.21px; */
+    padding: 37.25px 39.25px 39.25px 40px;
+    margin: -81.21px 63px 44.21px 44.21px;
     position: relative;
-    top: 249px;
-    left: 65.625px;
-    padding: 6px;
 }
 .heading h1 {
     width: 403px;
@@ -70,33 +67,32 @@ body {
 .two,
 .three {
     display: inline;
-    /* padding: 39.25px; */
+    padding: 39.25px;
     font-size: 24px;
     font-family: 'Inter', sans-serif;
     font-weight: 700;
-    padding: 6px;
 }
 .one {
     position: absolute;
-    bottom: -90px;
+    bottom: -85px;
     left: 0px;
 }
 .two {
     position: absolute;
-    bottom: -90px;
+    bottom: -85px;
     left: 152px;
 }
 .three {
     position: absolute;
-    bottom: -90px;
+    bottom: -85px;
     left: 288px;
 }
 .one span,
 .two span,
 .three span {
     position: absolute;
-    bottom: -18px;
-    left: 6px;
+    bottom: 18px;
+    left: 40px;
     font-size: 12px;
     font-family: 'Lexend Deca', sans-serif;
     text-transform: uppercase;
