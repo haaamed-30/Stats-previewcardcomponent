@@ -62,6 +62,7 @@ body {
     font-family: 'Inter', sans-serif;
     color: hsla(0, 0%, 100%, 0.75);
     line-height: 1.6;
+    padding-top: 1px;
 }
 .one,
 .two,
@@ -79,19 +80,19 @@ body {
 }
 .two {
     position: absolute;
-    bottom: -87.25px;
+    bottom: -87px;
     left: 152px;
 }
 .three {
     position: absolute;
-    bottom: -87.5px;
+    bottom: -87px;
     left: 288px;
 }
 .one span,
 .two span,
 .three span {
     position: absolute;
-    bottom: 17.5px;
+    bottom: 16px;
     left: 40px;
     font-size: 12px;
     font-family: 'Lexend Deca', sans-serif;
