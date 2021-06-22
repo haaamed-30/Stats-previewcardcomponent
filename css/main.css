@@ -52,6 +52,7 @@ body {
     font-family: 'Inter', sans-serif;
     color: hsl(0, 0%, 100%);
     line-height: 44px;
+    text-align: left;
 }
 .heading h1 span {
     color: hsl(277, 64%, 61%)
@@ -63,7 +64,7 @@ body {
     font-family: 'Inter', sans-serif;
     color: hsla(0, 0%, 100%, 0.75);
     line-height: 25px;
-    padding-top: 2px;
+    padding-top: 2.5px;
 }
 .one,
 .two,
@@ -99,7 +100,7 @@ body {
     font-family: 'Lexend Deca', sans-serif;
     text-transform: uppercase;
     color: hsla(0, 0%, 100%, 0.6);
-    line-height: 25px;
+    line-height: 1.6;
     font-weight: normal;
     letter-spacing: 1px;
 
